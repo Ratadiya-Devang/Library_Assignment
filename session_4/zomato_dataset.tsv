@@ -1,0 +1,31 @@
+restaurant_id	restaurant_name	city	locality	cuisine	average_cost_for_two	currency	has_online_delivery	has_table_booking	order_type	aggregate_rating	rating_text	votes	price_range
+1001	Spice Route	Pune	Paldi	Thai	300	INR	Yes	No	Delivery Only	3.7	Good	3444	1
+1002	The Curry Leaf	Ahmedabad	Prahlad Nagar	Street Food	800	INR	No	Yes	Delivery Only	3.9	Good	46	3
+1003	Pasta Point	Chennai	Ellisbridge	Mughlai	350	INR	No	No	Dine-out	4.7	Excellent	366	2
+1004	Burger Barn	Hyderabad	Satellite	Chinese	500	INR	Yes	Yes	Dine-out	3.9	Good	968	2
+1005	Sushi Circle	Chennai	Paldi	Chinese	700	INR	Yes	Yes	Delivery,Takeaway	3.1	Average	2829	3
+1006	Tandoori Nights	Bengaluru	CG Road	Mughlai	350	INR	Yes	Yes	Delivery,Takeaway	3.0	Average	1636	2
+1007	Green Bowl Cafe	Hyderabad	Chandkheda	Chinese	800	INR	No	No	Dine-out,Delivery	4.5	Excellent	1667	3
+1008	Wok This Way	Kolkata	SG Highway	Mexican	700	INR	Yes	Yes	Delivery Only	3.9	Good	2624	3
+1009	Pizza Junction	Ahmedabad	Paldi	South Indian	1500	INR	Yes	No	Dine-out	4.3	Very Good	4083	4
+1010	The Waffle House	Hyderabad	Prahlad Nagar	Mughlai	300	INR	No	Yes	Dine-out	4.2	Very Good	2872	1
+1011	Biryani Blues	Chennai	Prahlad Nagar	Chinese	300	INR	Yes	Yes	Delivery,Takeaway	2.9	Poor	1445	1
+1012	Cafe Mocha	Ahmedabad	Chandkheda	Continental	300	INR	No	No	Delivery Only	4.8	Excellent	4857	1
+1013	Taco Fiesta	Kolkata	Ghatlodia	Bakery	350	INR	No	Yes	Dine-out,Delivery	3.1	Average	587	2
+1014	The Dessert Lab	Ahmedabad	SG Highway	Italian	200	INR	Yes	No	Dine-out	4.6	Excellent	2394	1
+1015	Grill Masters	Delhi	Ellisbridge	Desserts	500	INR	No	Yes	Dine-out,Delivery	4.2	Very Good	1216	2
+1016	Noodle Nation	Kolkata	Satellite	Italian	300	INR	No	Yes	Dine-out,Delivery	4.8	Excellent	4325	1
+1017	Punjabi Tadka	Surat	Chandkheda	Thai	1000	INR	No	No	Delivery Only	4.4	Very Good	3988	3
+1018	South Spice	Ahmedabad	SG Highway	Cafe	800	INR	Yes	Yes	Dine-out,Delivery	4.0	Very Good	1161	3
+1019	The Sandwich Co.	Surat	SG Highway	Mexican	1000	INR	No	Yes	Delivery Only	3.5	Good	2066	3
+1020	Roll Republic	Delhi	Satellite	Cafe	300	INR	No	Yes	Dine-out	3.0	Average	789	1
+1021	Chaat Street	Pune	Thaltej	Continental	250	INR	No	No	Delivery Only	4.2	Very Good	1056	1
+1022	Barbeque Nation Express	Chennai	Vastrapur	Desserts	1000	INR	Yes	Yes	Dine-out	3.1	Average	1526	3
+1023	The Coffee Bean Stop	Chennai	Ghatlodia	Street Food	600	INR	Yes	Yes	Dine-out,Delivery	3.8	Good	540	2
+1024	Momo Magic	Bengaluru	SG Highway	Chinese	1500	INR	No	No	Delivery,Takeaway	4.1	Very Good	363	4
+1025	Kebab Corner	Ahmedabad	Thaltej	Street Food	1000	INR	No	No	Dine-out,Delivery	3.0	Average	4944	3
+1026	The Salad Bar	Bengaluru	Navrangpura	Street Food	1500	INR	No	Yes	Dine-out,Delivery	4.1	Very Good	4613	4
+1027	Sweet Tooth Bakery	Mumbai	Naranpura	South Indian	250	INR	Yes	No	Dine-out	3.5	Good	3462	1
+1028	Thali House	Kolkata	Thaltej	Japanese	1200	INR	No	No	Dine-out	4.2	Very Good	3646	4
+1029	Urban Tandoor	Ahmedabad	Vastrapur	Mexican	350	INR	No	No	Delivery,Takeaway	2.9	Poor	3574	2
+1030	The Juice Junction	Kolkata	Vastrapur	Cafe	350	INR	Yes	Yes	Delivery,Takeaway	3.6	Good	2702	2
