@@ -1,0 +1,16 @@
+transaction_id;date;time;transaction_type;amount;sender_name;receiver_name;payment_mode;status;remarks
+TXN10001;2026-01-05;09:15:22;Payment;250.00;Rohit Sharma;Amit Traders;UPI;Success;Grocery
+TXN10002;2026-01-05;10:02:41;Recharge;199.00;Priya Verma;;Wallet;Success;Mobile Recharge
+TXN10003;2026-01-06;11:45:10;Payment;;Suresh Kumar;City Electronics;Card;Success;Electronics
+TXN10004;2026-01-06;14:20:05;Transfer;5000.00;Neha Singh;Rahul Singh;UPI;;Rent
+TXN10005;2026-01-07;08:30:00;Bill Payment;1200.50;Anjali Mehta;Electricity Board;Netbanking;Success;
+TXN10006;2026-01-07;16:10:33;Payment;80.00;Karan Patel;Chai Point;Wallet;Failed;Beverages
+TXN10007;;18:05:12;Recharge;299.00;Deepak Joshi;;UPI;Success;DTH Recharge
+TXN10008;2026-01-08;09:55:47;Payment;1500.00;;Fashion Hub;Card;Success;Clothing
+TXN10009;2026-01-08;12:40:29;Transfer;2000.00;Kavita Rao;Sanjay Rao;UPI;Success;Family Support
+TXN10010;2026-01-09;13:25:16;Bill Payment;850.00;Manish Gupta;Water Board;Netbanking;Pending;
+TXN10011;2026-01-09;15:50:38;Payment;45.00;Sneha Iyer;Local Bakery;Wallet;Success;Snacks
+TXN10012;2026-01-10;07:10:52;Recharge;;Arjun Nair;;UPI;Success;Mobile Recharge
+TXN10013;2026-01-10;19:35:04;Payment;3200.00;Pooja Desai;Metro Groceries;Card;Success;Groceries
+TXN10014;2026-01-11;10:12:19;Transfer;750.00;Vikas Yadav;;UPI;Failed;Loan Repayment
+TXN10015;2026-01-11;;Payment;600.00;Ritu Chawla;Book World;Netbanking;Success;Books
